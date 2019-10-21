@@ -4,3 +4,4 @@ Mother fucker.
 Git has a mutable index called stage.
 Git tracks changes.
 Mother fucker.
+My boss is stupid.
